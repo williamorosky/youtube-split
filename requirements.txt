@@ -1,0 +1,11 @@
+pafy
+youtube_transcript_api
+wheel
+ffmpeg
+pydub
+SoundFile
+torchaudio 
+munch
+torch
+resemblyzer
+scipy
